@@ -1,0 +1,2 @@
+# MyMarkDownPicture
+用于存放MarkDown文档所需的图片
